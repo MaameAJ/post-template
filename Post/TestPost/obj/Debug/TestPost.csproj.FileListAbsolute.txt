@@ -1,0 +1,7 @@
+C:\Users\MApenteng\Documents\Visual Studio 2013\Projects\Post\TestPost\bin\Debug\TestPost.dll
+C:\Users\MApenteng\Documents\Visual Studio 2013\Projects\Post\TestPost\bin\Debug\TestPost.pdb
+C:\Users\MApenteng\Documents\Visual Studio 2013\Projects\Post\TestPost\bin\Debug\Post.dll
+C:\Users\MApenteng\Documents\Visual Studio 2013\Projects\Post\TestPost\bin\Debug\Post.pdb
+C:\Users\MApenteng\Documents\Visual Studio 2013\Projects\Post\TestPost\obj\Debug\TestPost.csprojResolveAssemblyReference.cache
+C:\Users\MApenteng\Documents\Visual Studio 2013\Projects\Post\TestPost\obj\Debug\TestPost.dll
+C:\Users\MApenteng\Documents\Visual Studio 2013\Projects\Post\TestPost\obj\Debug\TestPost.pdb
